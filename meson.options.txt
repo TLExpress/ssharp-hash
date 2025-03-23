@@ -1,0 +1,2 @@
+# Options for the Meson build system
+option('tests', type: 'feature', value: 'disabled', description: 'Build tests')
